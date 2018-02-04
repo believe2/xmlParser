@@ -1,0 +1,4 @@
+<Config>
+    <main a="123" z="666" b="ddfa">Hello world</main>
+    <main b="123" z="777" a="kkfa">Hello world</main>
+</Config>
